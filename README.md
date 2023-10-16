@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on data science project 
 - 📫 How to reach me:
-- email:ikram.mbarek01@gmail.com
+- ikram.mbarek01@gmail.com
 - LinkedIn :@ikram-mbarek
 
 <!---
